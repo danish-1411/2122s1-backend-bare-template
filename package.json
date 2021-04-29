@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/danish-1411/2122s1-backend-bare-template/issues"
   },
-  "homepage": "https://github.com/danish-1411/2122s1-backend-bare-template#readme"
+  "homepage": "https://github.com/danish-1411/2122s1-backend-bare-template#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
 }
